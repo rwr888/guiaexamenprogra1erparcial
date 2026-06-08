@@ -4,7 +4,7 @@ distinta de 3*/
 
 int option;
 
-do{
+do{//
 	Console.WriteLine("Elige una opción:");
 	Console.WriteLine("1. Saludar");
 	Console.WriteLine("2. Mostrar hora");
